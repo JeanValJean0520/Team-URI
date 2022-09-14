@@ -1,5 +1,6 @@
 # 팀 우리
-대덕소프트웨어마이스터고등학교 6기 팀
+대덕소프트웨어마이스터고등학교 6기 팀 우리  
+팀 우리는 수석교사 김학동 선생님의 가르침에 따라 세상에 이로우면서 창의적이고 도전적인 아이디어로 다양한 대회에 참가하는 팀입니다!
 
 # HISTORY
 
@@ -20,10 +21,10 @@
 (내용 없음)
 
 ## 맴버
-* 부장 : [문서준](https://github.com/MoonSeoJun)
-* 맴버 : [김경원](https://github.com/kimkyung1234)
-* 맴버 : [문준혁](https://github.com/dreamjh20)
-* 맴버 : [임연상](https://github.com/limyeonsang)
-* 맴버 : [장현용](https://github.com/JeanValJean0520)
-* 맴버 : [정 환](https://github.com/jeonghwan0458)
-* vvip : [김정빈](https://github.com/smoothbear)
+* 👑부장 : [문서준](https://github.com/MoonSeoJun)
+* 🥳맴버 : [김경원](https://github.com/kimkyung1234)
+* ⭐️맴버 : [문준혁](https://github.com/dreamjh20)
+* ❤️‍🔥맴버 : [임연상](https://github.com/limyeonsang)
+* 🌊맴버 : [장현용](https://github.com/JeanValJean0520)
+* ⛑맴버 : [정 환](https://github.com/jeonghwan0458)
+* 🐻vvip : [김정빈](https://github.com/smoothbear)
